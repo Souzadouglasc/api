@@ -8,11 +8,17 @@ A API possui os seguintes endpoints:
 GET /medicos: Retorna uma lista de recursos.
 
 GET /paciente: Retorna uma lista de recursos.
+
 POST /medicos: Cria um novo recurso.
+
 POST /paciente: Cria um novo recurso.
+
 PUT /medicos/{id}: Atualiza um recurso existente com o ID fornecido.
+
 PUT /paciente/{id}: Atualiza um recurso existente com o ID fornecido.
+
 DELETE /medicos/{id}: Exclui um recurso com o ID fornecido.
+
 DELETE /paciente/{id}: Exclui um recurso com o ID fornecido.
 
 Contribuindo
