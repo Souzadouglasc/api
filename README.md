@@ -6,6 +6,7 @@ Este é um projeto de exemplo para criar uma API RESTful em Java usando o Spring
 A API possui os seguintes endpoints:
 
 GET /medicos: Retorna uma lista de recursos.
+
 GET /paciente: Retorna uma lista de recursos.
 POST /medicos: Cria um novo recurso.
 POST /paciente: Cria um novo recurso.
